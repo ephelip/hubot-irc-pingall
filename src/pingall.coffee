@@ -17,5 +17,5 @@ module.exports = (robot) ->
         usersStr = users.toString()
 
         message = context.message.text
-        message = message.replace 'nono pingall ', ""
+        message = message.replace robot.name + ' pingall', ""
         context.send '[' + usersStr + ']' + " " + message
