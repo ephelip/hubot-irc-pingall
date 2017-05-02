@@ -1,0 +1,29 @@
+{
+  "name": "hubot-irc-pingall",
+  "description": "Hubot script to ping all users on the irc channel",
+  "version": "1.0.0",
+  "author": {
+    "name": "Etienne Phélip",
+    "email": "etienne.phelip@savoirfairelinux.com",
+  },
+  "keywords": [
+    "hubot",
+    "hubot-irc",
+    "irc",
+    "ping all",
+    "ping"
+  ],
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ephelip/hubot-irc-pingall.git"
+  },
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "bugs": {
+    "url": "https://github.com/ephelip/hubot-irc-pingall/issues"
+  }
+}
