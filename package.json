@@ -16,6 +16,9 @@
   "peerDependencies": {
     "hubot": "2.x"
   },
+  "dependencies": {
+    "hubot-cronjob": "0.2.2",
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/ephelip/hubot-irc-pingall.git"
