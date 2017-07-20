@@ -17,7 +17,7 @@
     "hubot": "2.x"
   },
   "dependencies": {
-    "hubot-cronjob": "0.2.2",
+    "hubot-cronjob": "0.2.2"
   },
   "repository": {
     "type": "git",
